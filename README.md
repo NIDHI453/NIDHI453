@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student
+I'm a AIML student
 
 
 ## 🌐 Socials:
