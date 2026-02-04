@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a AIML student
+I’m Nidhishree, an AIML student with a strong interest in Data Analytics, Machine Learning,and Smart IoT systems.
+I enjoy working with data to uncover insights and building practical projects that solve real-world problems.
+Currently exploring Python, SQL, and visualization tools while developing academic and personal projects.
 
 
 ## 🌐 Socials:
